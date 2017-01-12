@@ -27,3 +27,16 @@
 *.exe
 *.out
 *.app
+
+# IDE Crap
+RemoteSystemsTempFiles/
+.settings/
+.metadata/
+.cproject
+.idea/
+.project
+/build/
+
+# Node modules.
+/node_modules/
+/cmake-build-debug/
